@@ -56,4 +56,4 @@ Abaixo, os documentos de apoio para a sustentação técnica do projeto:
 
 **Assinatura:**
 
-🖋️ **Denis Silva** *Arquiteto de Soluções Cloud*
+🖋️ **Denis Silva**
